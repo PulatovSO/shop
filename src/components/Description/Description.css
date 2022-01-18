@@ -1,0 +1,61 @@
+.main {
+  padding-bottom: 500px;
+}
+
+.heading {
+  color: #999;
+  font-size: 20px;
+}
+
+.title {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+.size {
+  margin-top: 10px;
+  color: #999;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+.size span {
+  color: #000;
+}
+
+.desc-text {
+  line-height: 1.5em;
+  color: #999;
+}
+
+.download {
+  font-weight: 600;
+  text-decoration: underline;
+  color: #00b7ff;
+}
+
+.download i {
+  margin-right: 10px;
+}
+
+.price-wrap {
+  margin-top: 20px;
+  border-top: 1px solid #999;
+}
+
+.price span {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.price sup {
+  position: relative;
+  font-size: 14px;
+  top: 2px;
+}
+
+.faded {
+  margin-right: 40px;
+  color: #999;
+  font-size: 18px !important;
+}

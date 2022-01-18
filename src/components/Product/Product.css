@@ -1,0 +1,22 @@
+
+.product-image-wrap {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-img {
+  width: 300px;
+}
+
+.product-images {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.p-image {
+  width: 50px;
+}

@@ -1,0 +1,33 @@
+
+.tab {
+  margin: 0;
+  padding: 0;
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #00b7ff;
+  border: none;
+  background: none;
+}
+
+.bx-chevron-right {
+  font-size: 18px;
+  color: #000;
+  position: relative;
+  top: 3px;
+}
+
+.return {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.bx-arrow-back {
+  margin-right: 5px;
+  font-size: 18px;
+  font-weight: 600;
+}
